@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">loginScreen</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enteer_password">Enteer Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="todo">TODO</string>
+    <string name="not_registerted_sign_up">Not Registerted? Sign up</string>
+    <string name="email_ver">Enter Email</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="already_registerted_sign_in">Already Registerted? Sign in</string>
+    <string name="password_ver">Enteer Password</string>
+    <string name="Logout" />
+    <string name="enter_password">ENTER_password</string>
+</resources>
